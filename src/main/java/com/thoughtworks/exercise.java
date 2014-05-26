@@ -21,7 +21,7 @@ public class exercise {
         System.out.println("Print one asterisk to the console");
         System.out.println("*");
 
-        System.out.println("2、Draw a horizontal line");
+        System.out.println("\n2、Draw a horizontal line");
         System.out.println("Given a number n,print n asterisks on one line.");
         System.out.print("n :");
         int n2 = Integer.parseInt(scan.next());
@@ -35,6 +35,17 @@ public class exercise {
         int n3 = Integer.parseInt(scan.next());
         for (i=0; i<n3; i++) {
             System.out.println("*");
+        }
+
+        System.out.println("\n4、Draw a right triangle");
+        System.out.println("Given a number n,print n lines,each with one more asterisk than the last.");
+        System.out.print("n:");
+        int n4 = Integer.parseInt(scan.next());
+        for (i=0; i<n4; i++) {
+            for (int j = 0; j<=i; j++) {
+                System.out.print("*");
+            }
+            System.out.print("\n");
         }
     }
 }

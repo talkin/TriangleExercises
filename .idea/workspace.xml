@@ -5,7 +5,7 @@
     <ignored path="TriangleExercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../ModuleOne/.idea/workspace.xml" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401096539125" ignored="false" />
-    <file path="/exercise.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401109747130" ignored="false" />
+    <file path="/exercise.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401110148671" ignored="false" />
     <file path="/two.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401104603443" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <file leaf-file-name="exercise.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="40" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.55131966">
+            <state line="41" column="37" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.3548387">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -481,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="40" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.55131966">
+        <state line="41" column="37" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.3548387">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

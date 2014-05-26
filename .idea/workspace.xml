@@ -7,6 +7,7 @@
     <file path="$PROJECT_DIR$/../ModuleOne/.idea/workspace.xml" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401096539125" ignored="false" />
     <file path="/exercise.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401110148671" ignored="false" />
     <file path="/two.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401104603443" ignored="false" />
+    <file path="/DiamondExercises.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401111989473" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,19 +68,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="TriangleExercises.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/TriangleExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="30" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="26" column="30" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
+      <file leaf-file-name="DiamondExercises.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/DiamondExercises.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="37" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.3548387">
+            <state line="25" column="32" selection-start="769" selection-end="769" vertical-scroll-proportion="0.53079176">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,11 +103,13 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/two.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/TriangleExercises.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thoughtworks/DiamondExercises.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="588" />
+    <option name="x" value="595" />
     <option name="width" value="813" />
     <option name="height" value="724" />
   </component>
@@ -231,9 +236,25 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.exercise">
-    <configuration default="false" name="exercise" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.exercise" />
+  <component name="RunManager" selected="Application.DiamondExercises">
+    <configuration default="false" name="TriangleExercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.TriangleExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TriangleExercises" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DiamondExercises" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.DiamondExercises" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -336,12 +357,14 @@
       <patterns />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.exercise" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.TriangleExercises" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DiamondExercises" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.exercise" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.DiamondExercises" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TriangleExercises" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -359,12 +382,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="588" y="0" width="813" height="724" extended-state="0" />
+    <frame x="595" y="0" width="813" height="724" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329806" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -375,11 +399,10 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13981359" sideWeight="0.67019403" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30093208" sideWeight="0.67019403" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -456,7 +479,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/TriangleExercises.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="32" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
           <folding>
@@ -474,14 +497,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="30" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0">
+        <state line="20" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="0.43502825">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/TriangleExercises.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="37" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.3548387">
+        <state line="26" column="30" selection-start="818" selection-end="818" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/DiamondExercises.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="32" selection-start="769" selection-end="769" vertical-scroll-proportion="0.53079176">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

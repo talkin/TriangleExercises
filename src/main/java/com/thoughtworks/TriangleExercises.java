@@ -10,14 +10,14 @@ import java.util.Scanner;
  * Time: 下午5:27
  * To change this template use File | Settings | File Templates.
  */
-public class exercise {
+public class TriangleExercises {
     public static void main(String[] args) {
         InputStream is = System.in;
         Scanner scan = new Scanner(is);
         int i;
 
         System.out.println("Triangle Exercises");
-        System.out.println("1、Easiest exercise ever");
+        System.out.println("1、Easiest TriangleExercises ever");
         System.out.println("Print one asterisk to the console");
         System.out.println("*");
 

@@ -28,5 +28,13 @@ public class exercise {
         for (i=0; i<n2; i++) {
             System.out.print("*");
         }
+
+        System.out.println("\n\n3、Draw a vertical line");
+        System.out.println("Given a number n,print n lines,each with one asterisks.");
+        System.out.print("n:");
+        int n3 = Integer.parseInt(scan.next());
+        for (i=0; i<n3; i++) {
+            System.out.println("*");
+        }
     }
 }

@@ -5,7 +5,7 @@
     <ignored path="TriangleExercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../ModuleOne/.idea/workspace.xml" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401096539125" ignored="false" />
-    <file path="/exercise.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401109257253" ignored="false" />
+    <file path="/exercise.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401109747130" ignored="false" />
     <file path="/two.java" changelist="95632fde-4bd3-493b-871d-7be92525ad89" time="1401104603443" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <file leaf-file-name="exercise.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="24" selection-start="759" selection-end="759" vertical-scroll-proportion="0.70674485">
+            <state line="33" column="40" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.55131966">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +104,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="571" />
+    <option name="x" value="588" />
     <option name="width" value="813" />
     <option name="height" value="724" />
   </component>
@@ -359,7 +359,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="571" y="0" width="813" height="724" extended-state="0" />
+    <frame x="588" y="0" width="813" height="724" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -375,7 +375,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3075899" sideWeight="0.67019403" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13981359" sideWeight="0.67019403" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -481,7 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="24" selection-start="759" selection-end="759" vertical-scroll-proportion="0.70674485">
+        <state line="33" column="40" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.55131966">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
